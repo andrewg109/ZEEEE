@@ -4,14 +4,15 @@
          "text":"уже"
         }
     ],
-    "products":[
+    "cafe menu":[
         {
             "a bottle of water price":10,
             "a bottle of orange juice price":20,
             "a packet of biscits price":15,
             "a chocolate bar price":5,
             "a cup of tea price": 17,
-            "a bowl of Ramen":10
+            "a bowl of Ramen":10,
+            "a slice of watermelon price":30
         }
     ]
 }
