@@ -2,9 +2,15 @@
     "users":[
         {
             "id": 1,
+
             "name":"Andriy",
             "surname":"dobroshtanik",
-            "balance":69
+            "balance":69,
+
+
+            "name": "Gustaf",
+            "surnace": "Nash",
+            "balance": 1500
 
         }
     ]
