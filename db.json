@@ -7,7 +7,8 @@
     "products":[
         {
             "a bottle of water price":10,
-            "a bottle of orange juice price":20
+            "a bottle of orange juice price":20,
+            "a pocket of buiscits price":15
         }
     ]
 }
