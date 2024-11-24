@@ -12,7 +12,8 @@
             "a chocolate bar price":5,
             "a cup of tea price": 17,
             "a bowl of Ramen":10,
-            "a slice of watermelon price":30
+            "a slice of watermelon price":30,
+            "a bottle of cola price":15
         }
     ]
 }
