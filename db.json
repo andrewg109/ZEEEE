@@ -1,21 +1,48 @@
-{
-    "users":[
-        {
-         "text":"уже"
-        }
-    ],
-    "cafe menu":[
-        {
-            "a bottle of water price":10,
-            "a bottle of orange juice price":20,
-            "a packet of biscits price":15,
-            "a chocolate bar price":5,
-            "a cup of tea price": 17,
-            "a bowl of Ramen":10,
-            "a slice of watermelon price":30,
-            "a bottle of cola price":15,
-            "piece of cake price":100,
-            "a hotdog price":5
-        }
-    ]
+{ "users": [
+    {
+        "id": 1,
+        "name": "Andriy",
+        "sirname": "Moskalenko",
+        "photo_url": "https://raw.githubus...",
+        "balance": 1500
+    },
+    {
+        "id": 2,
+        "name": "Vova",
+        "sirname": "Petrenko",
+        "photo_url": "https://raw.githubus...",
+        "balance": 500
+    },
+    {
+        "id": 3,
+        "name": "Andriy",
+        "sirname": "Moskalenko",
+        "photo_url": "https://raw.githubus...",
+        "balance": 1500
+    }
+   ],
+   "products": [
+    {
+        "id": 3,
+        "name": "lays",
+        "sirname": "crips",
+        "photo_url": "https://producto.com.ua/image/cache/catalog/111/PEPSI/313194231-1000x1000.jpg",
+        "price": 600
+    },
+    {
+        "id": 4,
+        "name": "lays",
+        "sirname": "crips",
+        "photo_url": "https://producto.com.ua/image/cache/catalog/111/PEPSI/313194231-1000x1000.jpg",
+        "price": 600
+    },
+    {
+        "id": 5,
+        "name": "lays",
+        "sirname": "crips",
+        "photo_url": "https://producto.com.ua/image/cache/catalog/111/PEPSI/313194231-1000x1000.jpg",
+        "price": 600
+    }
+   ]
 }
+
