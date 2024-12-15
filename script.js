@@ -1,3 +1,5 @@
+let cartProd = document.getElementById('cart-products');
+let cart = []
 let productsGrid = document.getElementById('products-grid');
 let productsArray = [];
 let xhr = new XMLHttpRequest();
