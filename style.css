@@ -358,3 +358,21 @@ button {
         grid-template-columns: repeat(1, 1fr);
     }
 }
+.modal {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: darkslateblue;
+    display: none;
+}
+.modal-content{
+    background-color: whitesmoke;
+    margin: 5vh auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}

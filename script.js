@@ -61,9 +61,7 @@ function drawCartProducts() {
     `;
 }
 function buyAll() {
-    cart = [];
-    cartProd.innerHTML = 'Money was withdrawn from your credit card';
-    localStorage.setItem("cart", '[]');
+    modal.style.display = "block"
 }
 function openCart() {
     cartProd.classList.toggle('hide');
